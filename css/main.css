@@ -32,3 +32,7 @@ nav a {
   color: #793284;
   text-decoration: underline;
 }
+
+.intro {
+  font-size: 1rem;
+}
