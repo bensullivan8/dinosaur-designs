@@ -30,6 +30,11 @@ nav ol {
   list-style-type: none;
 }
 
+nav a {
+  color: black;
+  text-decoration: none;
+}
+
 nav a:hover {
   color: #793284;
   text-decoration: underline;
