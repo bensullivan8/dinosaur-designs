@@ -31,12 +31,12 @@ nav ol {
 }
 
 nav a {
-  color: #fff;
+  color: #2b2;
   text-decoration: none;
 }
 
 nav a:hover {
-  color: #22bb22;
+  color: #olive;
   text-decoration: underline;
 }
 
